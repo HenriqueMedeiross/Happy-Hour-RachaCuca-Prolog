@@ -10,8 +10,8 @@ Nele resolvi um problema lógico do sitio [Racha Cuca](https://rachacuca.com.br/
 
 Cinco amigos que trabalham juntos estão curtindo um happy hour. Rache a cuca para descobrir as características deles.
 
-Em uma das pontas está o homem que gosta de Sinuca.
-Reginaldo é o mais novo.
+> Em uma das pontas está o homem que gosta de Sinuca.
+> Reginaldo é o mais novo.
 Hugo está ao lado de quem está bebendo a cerveja Inglesa.
 Kleber está em algum lugar entre o homem da gravata Azul e quem trabalha na Administração, nessa ordem.
 O homem da gravata Azul está ao lado de quem está bebendo a cerveja Inglesa.
