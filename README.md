@@ -6,7 +6,6 @@ Nele resolvi um problema lógico do sitio [Racha Cuca](https://rachacuca.com.br/
 
 [Problema Happy Hour aqui](https://rachacuca.com.br/logica/problemas/happy-hour/)
 
-![solucao](https://i.imgur.com/QGwtRPt.png)
 
 ## Enunciado:<br/>
 
@@ -37,5 +36,5 @@ Quem gosta de Basquete está exatamente à esquerda de quem tem 28 anos.<br/>
 <details>
 <summary># Solução</summary>
 <br>
-![solucao](https://i.imgur.com/QGwtRPt.png)
+  <img src="https://i.imgur.com/QGwtRPt.png" alt="Solucao">
 </details>
