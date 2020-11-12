@@ -6,6 +6,8 @@ Nele resolvi um problema lógico do sitio [Racha Cuca](https://rachacuca.com.br/
 
 [Problema Happy Hour aqui](https://rachacuca.com.br/logica/problemas/happy-hour/)
 
+![solucao](https://i.imgur.com/QGwtRPt.png)
+
 ## Enunciado:<br/>
 
 > Cinco amigos que trabalham juntos estão curtindo um happy hour. Rache a cuca para descobrir as características deles.<br/><br/>
