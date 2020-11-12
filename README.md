@@ -35,11 +35,11 @@ Quem gosta de Basquete está exatamente à esquerda de quem tem 28 anos.<br/>
 <details>
 <summary># Solução</summary>
 <br>
-mesa(
-amigo(verde, reginaldo, belga, mais_novo, vendas, sinuca), 
-amigo(azul, tiago, brasileira, mais_velho, contabilidade, natacao), 
-amigo(vermelha, kleber, inglesa, trinta, comercial, corrida), 
-amigo(amarela, hugo, alema, trinta_quatro, administracao, basquete), 
-amigo(branca, david, irlandesa, vinte_oito, rh, futebol)
-)
+mesa(<br/>
+amigo(verde, reginaldo, belga, mais_novo, vendas, sinuca), <br/>
+amigo(azul, tiago, brasileira, mais_velho, contabilidade, natacao),<br/> 
+amigo(vermelha, kleber, inglesa, trinta, comercial, corrida), <br/>
+amigo(amarela, hugo, alema, trinta_quatro, administracao, basquete),<br/> 
+amigo(branca, david, irlandesa, vinte_oito, rh, futebol)<br/>
+)<br/>
 </details>
