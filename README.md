@@ -33,7 +33,6 @@ O amigo de 30 anos está bebendo a cerveja Inglesa.<br/>
 O homem da gravata Verde está ao lado de Tiago.<br/>
 Quem gosta de Basquete está exatamente à esquerda de quem tem 28 anos.<br/>
 
-<details>
-<summary><h2/>Solução<h2/></summary>
+<details><summary><h2/>Solução<h2/></summary>
   <img src="https://i.imgur.com/QGwtRPt.png" alt="Solucao">
 </details>
