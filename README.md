@@ -35,5 +35,5 @@ Quem gosta de Basquete está exatamente à esquerda de quem tem 28 anos.<br/>
 <details>
 <summary># Solução</summary>
 <br>
-[solucao](https://imgur.com/QGwtRPt)
+![solucao](https://i.imgur.com/QGwtRPt.png)
 </details>
