@@ -1,4 +1,5 @@
 # Happy-Hour-RachaCuca-Prolog
 
-Este programa foi realizado como trabalho na disciplina de Programação Lógica e inteligência artificial.
+Este programa foi realizado como trabalho na disciplina de Programação Lógica e inteligência artificial.<br/>
+
 Nele resolvemos um problema lógico do sitio [Racha Cuca](https://rachacuca.com.br/)
