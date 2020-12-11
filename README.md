@@ -6,6 +6,8 @@ Nele resolvi um problema lógico do sitio [Racha Cuca](https://rachacuca.com.br/
 
 [Problema Happy Hour aqui](https://rachacuca.com.br/logica/problemas/happy-hour/)
 
+$$\frac{3}{5}$$
+
 
 ## Enunciado:<br/>
 
